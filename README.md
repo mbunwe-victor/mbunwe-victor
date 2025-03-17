@@ -1,6 +1,4 @@
-### 🚀 Hi there, I'm Victor! 👋  
-
-I'm a **passionate software engineer** who loves solving problems, learning new technologies, and building amazing projects.  
+### 🚀 Hi there, I'm Victor! 👋    
  
 
 ---
