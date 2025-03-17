@@ -1,10 +1,7 @@
 ### 🚀 Hi there, I'm Victor! 👋  
 
 I'm a **passionate software engineer** who loves solving problems, learning new technologies, and building amazing projects.  
-
-🌍 **Location:** Cameroon  
-💼 **Currently working on:** Exciting software projects  
-🎯 **Interests:** Web Development, Open Source, AI & Machine Learning  
+ 
 
 ---
 
@@ -26,10 +23,5 @@ I'm a **passionate software engineer** who loves solving problems, learning new 
 
 ---
 
-### 📫 Connect with Me
-- 🏠 **GitHub:** [mbunwe-victor](https://github.com/mbunwe-victor)
-- 📧 **Email:** your.email@example.com
-- 💬 **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 📝 **Portfolio:** [Your Website](https://yourportfolio.com)  
 
 
