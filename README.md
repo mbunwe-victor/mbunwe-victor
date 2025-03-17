@@ -13,25 +13,14 @@
 ---
 
 ### 📊 GitHub Stats
-<div align="center">
-  <!-- GitHub Stats Card -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=mbunwe-victor&show_icons=true&theme=dark" 
-    alt="Victor's GitHub Stats" 
-    style="width:48%; min-width:300px;"
-  />
+![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mbunwe-victor&show_icons=true&theme=dark)
 
-  <!-- Most Used Languages Card -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbunwe-victor&layout=compact&theme=dark" 
-    alt="Top Languages" 
-    style="width:48%; min-width:300px;"
-  />
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mbunwe-victor&layout=compact&theme=dark)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mbunwe-victor&theme=dark)
 
 ---
+
 
 
 
